@@ -1,4 +1,3 @@
-# Yield-curve-construction-and-forecasting
 # Yield Curve Construction & Forecasting
 
 A self-contained Python library for **building, modelling, and forecasting the
